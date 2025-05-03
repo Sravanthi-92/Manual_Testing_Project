@@ -1,10 +1,6 @@
 # Manual_Testing_Project
 This project delivers a comprehensive test plan for app.vwo.com, featuring meticulously designed test cases that ensure software quality and reliability. The documentation provides structured guidance for manual testing across both web and mobile applications.
 
-# 🧪 Manual Testing Project – app.vwo.com
-
-Welcome to the **Manual Testing Repository for [app.vwo.com](https://app.vwo.com)** – a platform designed for A/B testing and website optimization. This repository provides a comprehensive test suite, documentation, and execution artifacts for conducting effective manual testing.
-
 ---
 
 ## 📋 Project Overview
