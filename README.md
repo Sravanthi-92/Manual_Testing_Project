@@ -13,8 +13,7 @@ This repository includes:
 
 ## 👥 Contributors
 
-- **Sravanthi Veshala** – Repository Maintainer  
-- QA Engineers – Test Case Design
+- **Sravanthi Veshala** – Repository Maintainer
 
 ---
 
