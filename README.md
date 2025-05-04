@@ -7,6 +7,7 @@ This project delivers a comprehensive test plan for app.vwo.com, featuring metic
 
 This repository includes:
 - A detailed **Test Plan** outlining objectives, scope, timelines, environments, and test strategies.
+- A detailed **Test Strategy** outlining  Objective, scope, Testing Types & Approach, Environments, Automation Strategy.
 - Well-structured **Test Cases** covering all key functionalities.
 
 ---
